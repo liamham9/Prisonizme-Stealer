@@ -44,7 +44,7 @@ And press covert .py .exe
 
 ## Pictures:
  
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Prisonizme/Prisonizme-Stealer/main/img/image(1).png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Prisonizme/Prisonizme-Stealer/main/img/image (1).png"></img>
 
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Prisonizme/Prisonizme-Stealer/main/img/image.png"></img>
 
