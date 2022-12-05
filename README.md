@@ -1,7 +1,7 @@
 <h1 align="center"> Prisonizme Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/1035461393463382037/1049353193693392987/maxresdefault.jpg"width="400"> </kbd><br><br>
 
-<p>if you need help you can write on discord Prisonizme#1337</p>
+<p>if you need help you can write on discord Prisonizme#1337 / https://discord.gg/jPtACpjSme </p>
 
 
 ## Features:
